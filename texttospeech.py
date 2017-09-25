@@ -2,7 +2,7 @@
 #aman kumar jha
 #*/
 
-
+#Python script to convert text to speech
 
 from gtts import gTTS
 import os
